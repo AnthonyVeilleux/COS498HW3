@@ -17,7 +17,7 @@ A simple web application demonstrating cookie-based authentication using Node.js
    ```
 
 2. **Access the app**
-   - Open `http://localhost:25565` in your browser
+   - Open `http://localhost:80` in your browser
 
 3. **Test accounts**
    - `steve` / `steve123`
