@@ -1,3 +1,5 @@
+// backend/server.js
+// Main server file for the PDF viewer application
 const express = require('express');
 const app = express();
 const path = require('path');

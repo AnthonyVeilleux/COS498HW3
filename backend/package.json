@@ -1,5 +1,5 @@
 {
-  "name": "cos498midtermav",
+  "name": "cos498hw3",
   "version": "1.0.0",
   "description": "This is a read me test update... Does the vscode gui work?",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnthonyVeilleux/COS498MidtermAV.git"
+    "url": "git+https://github.com/AnthonyVeilleux/COS498HW3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnthonyVeilleux/COS498MidtermAV/issues"
+    "url": "https://github.com/AnthonyVeilleux/COS498HW3/issues"
   },
-  "homepage": "https://github.com/AnthonyVeilleux/COS498MidtermAV#readme",
+  "homepage": "https://github.com/AnthonyVeilleux/COS498HW3#readme",
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "express": "^5.1.0",
