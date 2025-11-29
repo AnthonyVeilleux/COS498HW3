@@ -1,0 +1,17 @@
+[
+  {
+    "filename": "c++.pdf",
+    "title": "C++ Programming Language",
+    "description": "Complete C++ programming guide covering modern C++ features and best practices"
+  },
+  {
+    "filename": "c#.pdf",
+    "title": "C# Programming Guide",
+    "description": "Comprehensive C# guide for .NET development and object-oriented programming"
+  },
+  {
+    "filename": "c.pdf",
+    "title": "C Programming Language",
+    "description": "Essential C programming reference covering syntax, pointers, and memory management"
+  }
+]
